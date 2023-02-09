@@ -3,11 +3,11 @@
 <hr>
 - 🌱 I’m currently learning **Angular and Fluid Generation**
 
-- 👨‍💻 All of my projects are available at [tom-fourcaudot.netlify.app](tom-fourcaudot.netlify.app)
+- 👨‍💻 All of my projects are available at [tom-fourcaudot.netlify.app](https://tom-fourcaudot.netlify.app)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/tom-fourcaudot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-fourcaudot" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tom-fourcaudot-73632b224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-fourcaudot" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
