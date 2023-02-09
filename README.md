@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tom Fourcaudot</h1>
 <h3 align="center">A french developer who loves to travel</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tom-fourcaudot" alt="tom-fourcaudot" /></a> </p>
-
+<hr>
 - 🌱 I’m currently learning **Angular and Fluid Generation**
 
 - 👨‍💻 All of my projects are available at [tom-fourcaudot.netlify.app](tom-fourcaudot.netlify.app)
