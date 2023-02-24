@@ -15,4 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tom-fourcaudot&show_icons=true&locale=en&layout=compact&langs_count=10&include_all_commits=true&count_private=true" alt="tom-fourcaudot" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-fourcaudot&show_icons=true&locale=en&include_all_commits=true&count_private=true" alt="tom-fourcaudot" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tom-fourcaudot&show_icons=true&locale=en&count_private=true" alt="tom-fourcaudot" /></p>
