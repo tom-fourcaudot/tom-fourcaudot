@@ -1,10 +1,11 @@
 <h1 align="center">Hi 👋, I'm Tom Fourcaudot</h1>
 <h3 align="center">A french developer who loves to travel</h3>
 <hr>
-- 🌱 I’m currently learning **Angular and Fluid Generation**
+<ul>
+  <li>🌱 I’m currently learning <b>Angular and Fluid Generation</b></li>
 
-- 👨‍💻 All of my projects are available at [tom-fourcaudot.netlify.app](https://tom-fourcaudot.netlify.app)
-
+  <li>💻 All of my projects are available at [tom-fourcaudot.netlify.app](https://tom-fourcaudot.netlify.app)</li>
+</ul>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/tom-fourcaudot-73632b224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tom-fourcaudot" height="30" width="40" /></a>
